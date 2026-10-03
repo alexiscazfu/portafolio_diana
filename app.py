@@ -11,7 +11,7 @@ from pathlib import Path
 
 import streamlit as st
 
-ARCHIVO_HTML = Path(__file__).parent / "portafolio-diana-azulvide"
+ARCHIVO_HTML = Path(__file__).parent / "portafolio-diana-azulvide.html"
 
 st.set_page_config(
     page_title="Diana Azulvide · Portafolio",
